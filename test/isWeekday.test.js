@@ -1,5 +1,5 @@
 import assert from "assert"
-import isWeekday from "../Javascript/isWeekday.js"
+import isWeekday from "../isWeekday.js"
 
 describe("The isWeekday function", ()=>{
     it("It should return true if its the day of the week", ()=>{

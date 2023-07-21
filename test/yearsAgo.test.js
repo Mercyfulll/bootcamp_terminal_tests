@@ -1,5 +1,5 @@
 import assert from "assert";
-import yearsAgo from "../Javascript/yearsAgo.js";
+import yearsAgo from "../yearsAgo.js";
 
 describe("The yearsAgo function", ()=>{
     it("It should return 29.", ()=>{

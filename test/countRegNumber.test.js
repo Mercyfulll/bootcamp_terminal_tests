@@ -1,5 +1,5 @@
 import assert from 'assert';
-import countRegNumber from '../Javascript/countRegNumber.js';
+import countRegNumber from '../countRegNumber.js';
 
 describe("The countRegNumber function", ()=>{
     it("It should return 4", ()=>{

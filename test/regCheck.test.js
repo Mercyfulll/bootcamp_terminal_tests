@@ -1,5 +1,5 @@
 import assert from "assert";
-import regCheck from "../Javascript/regCheck.js";
+import regCheck from "../regCheck.js";
 
 describe("The regCheck function", ()=>{
     it("It should return true if registration ends with 'GP'",()=>{

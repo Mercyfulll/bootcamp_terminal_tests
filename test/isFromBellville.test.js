@@ -1,5 +1,5 @@
 import assert from 'assert';
-import isFromBellville from '../Javascript/isFromBellville.js';
+import isFromBellville from '../isFromBellville.js';
 
 describe("The isFromBellville function", ()=>{
     it("It should return true if registration startswith 'CY'", ()=>{

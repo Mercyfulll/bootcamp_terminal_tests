@@ -1,5 +1,5 @@
 import assert from "assert";
-import fromWhere from "../Javascript/fromWhere.js";
+import fromWhere from "../fromWhere.js";
 
 describe("Test fromWhere function",()=>{
 

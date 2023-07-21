@@ -1,5 +1,5 @@
 import assert from "assert";
-import transportFee from "../Javascript/transportFee.js";
+import transportFee from "../transportFee.js";
 
 describe("Test my transportFee function",()=>{
 

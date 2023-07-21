@@ -1,5 +1,5 @@
 import assert from "assert";
-import totalPhoneBill from "../Javascript/totalPhoneBill.js";
+import totalPhoneBill from "../totalPhoneBill.js";
 
 describe("Test my totalPhoneBill function",()=>{
 
