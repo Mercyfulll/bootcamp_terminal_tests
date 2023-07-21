@@ -21,4 +21,5 @@ jobs:
     - run: npm install
     - run: npm ci
     - run: npm run build --if-present
+    - run:  npm install -g mocha
     - run: npm test
